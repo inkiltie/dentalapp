@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">DentalApp</string>
+    <string name="clinicMsg">Pick a dental clinic</string>
+    <string name="procedureMsg">Pick a procedure</string>
+    <string name="specialistMsg">Pick a specialist</string>
+    <string name="dateMsg">Choose a date</string>
+    <string name="timeMsg">Choose a time</string>
+    <string-array name="clinics">
+        <item>Atlantis Dental</item>
+        <item>Burnaby Dental Group</item>
+        <item>Downtown Dental</item>
+        <item>Ironwood Dental Centre</item>
+        <item>Kingsgate Dental</item>
+        <item>Marshall Clinic</item>
+        <item>Pacifica Dental Centre</item>
+    </string-array>
+    <string-array name="procedures">
+        <item>Teeth Cleaning</item>
+        <item>Fillings and Repairs</item>
+        <item>Extractions</item>
+        <item>Fluoride Treatment</item>
+        <item>Braces</item>
+        <item>Gum Surgery</item>
+        <item>Root Canals</item>
+    </string-array>
+    <string-array name="specAt">
+        <item>Any</item>
+        <item>Dr. Amanda Stones</item>
+        <item>Dr. Liam Brown</item>
+        <item>Dr. Robert Davies</item>
+        <item>Dr. Adam Li</item>
+        <item>Dr. Daniel Milner</item>
+        <item>Dr. Igor Rogers</item>
+    </string-array>
+    <string-array name="specBu">
+        <item>Any</item>
+        <item>Dr. Roy Patrick</item>
+        <item>Dr. Julia Nash</item>
+        <item>Dr. Teresa Vasquez</item>
+        <item>Dr. Adam Johnson</item>
+        <item>Dr. Aron Cleverly</item>
+        <item>Dr. Dan Crawford</item>
+    </string-array>
+    <string-array name="specDo">
+        <item>Any</item>
+        <item>Dr. Helga Rogers</item>
+        <item>Dr. Victoria Lucas</item>
+        <item>Dr. Samantha Browdy</item>
+        <item>Dr. Robert Poulsen</item>
+        <item>Dr. Wayne Gates</item>
+        <item>Dr. Peter Moore</item>
+    </string-array>
+    <string-array name="specIr">
+        <item>Any</item>
+        <item>Dr. Shawna Peterson</item>
+        <item>Dr. David Jensen</item>
+        <item>Dr. Tamara Bennington</item>
+        <item>Dr. Lucas Martin</item>
+        <item>Dr. Chet Travis</item>
+        <item>Dr. Lianne Jobs</item>
+    </string-array>
+    <string-array name="specKi">
+        <item>Any</item>
+        <item>Dr. Juan Byrd</item>
+        <item>Dr. Alfredo Barrett</item>
+        <item>Dr. Sylvia Figueroa</item>
+        <item>Dr. Neal Thomas</item>
+        <item>Dr. Max Hansen</item>
+        <item>Dr. Alan Brady</item>
+    </string-array>
+    <string-array name="specMa">
+        <item>Any</item>
+        <item>Dr. Meghan Harvey</item>
+        <item>Dr. Sabrina King</item>
+        <item>Dr. Gayle Ingram</item>
+        <item>Dr. Gene Townsend</item>
+        <item>Dr. Nicolas Hernandez</item>
+        <item>Dr. Anna Flowers</item>
+    </string-array>
+    <string-array name="specPa">
+        <item>Any</item>
+        <item>Dr. Barbara Dean</item>
+        <item>Dr. Marta Nickson</item>
+        <item>Dr. Rhyon Best</item>
+        <item>Dr. Stanley Cole</item>
+        <item>Dr. Victor Powers</item>
+        <item>Dr. Trevor Nielson</item>
+    </string-array>
+</resources>
